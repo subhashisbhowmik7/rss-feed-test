@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Sample Test Feed</title>
+    <link>https://example.com</link>
+    <description>This is a test RSS feed for Azure Function testing.</description>
+    <language>en-us</language>
+    <lastBuildDate>2025-07-27T12:03:45+05:30</lastBuildDate>
+    <atom:link type="application/rss+xml" rel="self" href="https://<your-username>.github.io/rss-test/feed.xml"/>
+    <copyright>Copyright (C) 2025 Example</copyright>
+    <docs>https://example.com/rss-docs</docs>
+    <image>
+      <title>Example Logo</title>
+      <url>https://example.com/logo.png</url>
+      <link>https://example.com</link>
+    </image>
+
+    <item>
+      <title>Test Article 1</title>
+      <description>This is the first test article.</description>
+      <link>https://example.com/articles/1</link>
+      <guid>https://example.com/articles/1</guid>
+      <pubDate>2025-07-27T12:00:00+05:30</pubDate>
+    </item>
+
+    <item>
+      <title>Test Article 2</title>
+      <description>This is the second test article for Azure function demo.</description>
+      <link>https://example.com/articles/2</link>
+      <guid>https://example.com/articles/2</guid>
+      <pubDate>2025-07-26T11:30:00+05:30</pubDate>
+    </item>
+
+    <item>
+      <title>Test Article 3</title>
+      <description>This is another item.</description>
+      <link>https://example.com/articles/3</link>
+      <guid>https://example.com/articles/3</guid>
+      <pubDate>2025-07-25T09:00:00+05:30</pubDate>
+    </item>
+  </channel>
+</rss>
