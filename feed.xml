@@ -6,7 +6,7 @@
     <description>This is a test RSS feed for Azure Function testing.</description>
     <language>en-us</language>
     <lastBuildDate>2025-07-27T12:03:45+05:30</lastBuildDate>
-    <atom:link type="application/rss+xml" rel="self" href="https://<your-username>.github.io/rss-test/feed.xml"/>
+    <atom:link type="application/rss+xml" rel="self" href="https://subhashisbhowmik7.github.io/rss-feed-test/feed.xml"/>
     <copyright>Copyright (C) 2025 Example</copyright>
     <docs>https://example.com/rss-docs</docs>
     <image>
