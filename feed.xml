@@ -16,7 +16,7 @@
     </image>
 
     <item>
-      <title>Test Article 1</title>
+      <title>Test Article 11</title>
       <description>This is the first test article.</description>
       <link>https://example.com/articles/1</link>
       <guid>https://example.com/articles/1</guid>
@@ -24,7 +24,7 @@
     </item>
 
     <item>
-      <title>Test Article 2</title>
+      <title>Test Article 10</title>
       <description>This is the second test article for Azure function demo.</description>
       <link>https://example.com/articles/2</link>
       <guid>https://example.com/articles/2</guid>
@@ -32,11 +32,19 @@
     </item>
 
     <item>
-      <title>Test Article 3</title>
+      <title>Test Article 9</title>
       <description>This is another item.</description>
       <link>https://example.com/articles/3</link>
       <guid>https://example.com/articles/3</guid>
       <pubDate>2025-07-25T09:00:00+05:30</pubDate>
+    </item>
+
+    <item>
+      <title>Test Article 8</title>
+      <description>This is the second test article for Azure function demo.</description>
+      <link>https://example.com/articles/2</link>
+      <guid>https://example.com/articles/2</guid>
+      <pubDate>2025-07-26T11:30:00+05:30</pubDate>
     </item>
   </channel>
 </rss>
